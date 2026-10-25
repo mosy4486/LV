@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LVAgent/LVAgent.csproj" />
+  <Project Path="LVcommon/LVCommon.csproj" />
+  <Project Path="LVController/LVController.csproj" Id="93883435-4409-44c5-83bb-bb3c55c41e02" />
+</Solution>
